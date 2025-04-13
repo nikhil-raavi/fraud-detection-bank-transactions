@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {\rtf1\ansi\ansicpg1252\cocoartf2821
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
@@ -7,3 +8,6 @@
 
 \f0\fs24 \cf0 D\
 }
+=======
+# fraud-detection-bank-transactions
+>>>>>>> e1429464d760f73b09f3546e21f0e900ac05a524
