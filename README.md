@@ -1,5 +1,5 @@
-![Fraud Detection Cover]
-(https://github.com/nikhil-raavi/fraud-detection-bank-transactions/blob/main/cover.png)
+![Fraud Detection Cover](https://github.com/nikhil-raavi/fraud-detection-bank-transactions/blob/main/cover.png)
+
 
 # 🏦 Fraud Detection in Bank Transactions using PySpark
 
